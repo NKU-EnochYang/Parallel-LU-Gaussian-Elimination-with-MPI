@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MPI_LU"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MPI_LU">
+				<Option output="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/MPI_LU" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 MPI_LU"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MPI_LU/fast">
+				<Option output="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/MPI_LU" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 MPI_LU/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/MPI_LU_Block.cpp">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/MPI_LU_Block.h">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/MPI_LU_Pipeline.cpp">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/MPI_LU_Pipeline.h">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/MPI_LU_Recycle.cpp">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/MPI_LU_Recycle.h">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/Matrix.cpp">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/Matrix.h">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/main.cpp">
+			<Option target="MPI_LU"/>
+		</Unit>
+		<Unit filename="/home/enoch/ParallelProgramming/MPI_LU/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/local/mpich-3.3/bin/mpicxx  -g   CMakeFiles/mpi_spmv.dir/main.cpp.o  -o mpi_spmv 

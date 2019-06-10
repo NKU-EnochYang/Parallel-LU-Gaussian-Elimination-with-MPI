@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enoch/ParallelProgramming/MPI_LU/main.cpp
+iostream
+-
+mpi.h
+-
+sys/time.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,3 @@
+/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/CMakeFiles/MPI_LU.dir
+/home/enoch/ParallelProgramming/MPI_LU/cmake-build-debug/CMakeFiles/edit_cache.dir
